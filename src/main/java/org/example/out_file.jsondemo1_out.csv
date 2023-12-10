@@ -1,0 +1,4 @@
+CardNumber,CardType,Error
+5567894523129089,MasterCard,None
+59012345678901234567890,Invalid,InvalidCardNumber
+347856341908126,AmericanExpress,None
