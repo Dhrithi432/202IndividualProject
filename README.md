@@ -28,3 +28,5 @@ The Junit classes can be tested from the classes.
 
 # Class Diagrams
 The links for the class diagrams are here.
+
+https://github.com/Dhrithi432/202IndividualProject/tree/main/Class%20Diagrams
